@@ -9,3 +9,6 @@ Some examples are shown with comments in python and C++
 The link is below:
 
 https://www.hackerrank.com/contests/101hack41/challenges/washing-plates
+
+A link that contains some introduction and the utility of knapsack algorithms:
+http://www.es.ele.tue.nl/education/5MC10/Solutions/knapsack.pdf
